@@ -95,4 +95,8 @@
 
 a { 
     color: #b8bb26;
+    text-decoration:none;
+}
+a:hover {
+  color: #fb4934;
 }
