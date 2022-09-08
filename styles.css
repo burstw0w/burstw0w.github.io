@@ -31,7 +31,7 @@
   margin-left: 250px; /* Same as the width of the sidebar */
   padding: 0px 10px;
   font-family: 'IBM Plex Mono', monospace;
-  width: 1000px;
+  width: 52%;
 }
 
 /* On smaller screens, where height is less than 450px, change the style of the sidebar (less padding and a smaller font size) */
@@ -44,7 +44,7 @@
   display: flex;
   width: 100%;
   height: 3px;
-  margin: 5px 0px 60px 0px;
+  margin: 3px 0px 60px 0px;
 }
 
 .box-sm {
