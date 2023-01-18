@@ -9,4 +9,4 @@
 #Other than that i have multiple of various work projects, and couple of solo projects that i do in my free time.
 
 #btw, add me on Steam
-<p align="center"> <a href="https://www.steamidfinder.com/lookup/76561198102704405/"><img src="https://www.steamidfinder.com/signature/76561198102704405.png" alt="Steam Profile badge for burstw0w" title="Steam Profile badge for burstw0w"/></a>
+<a href="https://s.team/p/mkt-kcch"<iframe src="https://gamer2810.github.io/steam-miniprofile/?accountId=142438677" style="border:0px #ffffff none;" name="myiFrame" scrolling="no" frameborder="1" marginheight="0px" marginwidth="0px" height="400px" width="600px" allowfullscreen></iframe></a>
