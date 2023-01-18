@@ -1,6 +1,6 @@
 #Hi!
 #
-#My name is Balša and i am a DevOps currently working at  [🌟 Twin Star Systems](https://twinstarsystems.com)
+#My name is Balša and i'm a DevOps currently working at Twin Star Systems. (visit us by using command "work")
 #
 #- my fields: Azure, Deployment, System Architecture, Security and Administration 
 #- hobbies: retro gaming, linux tinkering
