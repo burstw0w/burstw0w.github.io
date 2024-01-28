@@ -26,14 +26,23 @@ v<!DOCTYPE html>
 <div class="tekst">
   <p style="color: #458588">биће текст
   </p>
-<img id="myImage" src="https://assessmentpmilos.files.wordpress.com/2024/01/boske-female-4.png" alt="Click Me">
+<a id="myLink" href="burstw0w.org">
+    <img src="https://assessmentpmilos.files.wordpress.com/2024/01/boske-female-4.png" alt="Click Me">
+</a>
+
 <script src="https://euir.trckrhst.com/webtag/51711" type="text/javascript"></script>
 <script>
     document.addEventListener('DOMContentLoaded', function() {
-        // Add click event listener to the image
-        document.getElementById('myImage').addEventListener('click', function() {
-            // Activate the external script when the image is clicked
+        // Add click event listener to the link
+        document.getElementById('myLink').addEventListener('click', function(event) {
+            // Prevent the default link behavior to allow custom handling
+            event.preventDefault();
+
+            // Activate the external script when the link is clicked
             activateExternalScript();
+
+            // Perform redirection manually if needed
+            window.location.href = this.href;
         });
 
         // Function to activate the external script
